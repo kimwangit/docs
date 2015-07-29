@@ -209,7 +209,7 @@ Open publishing will monitor changes in GIT repository and automatically build a
 
 > Our goal is to support any GIT repository, but GIT server implementation varies from one to another.
 > Our principle to use standard GIT operation and minimize server-side GIT dependencies as much as possible, but there will always be specific GIT server implementation like webhook.
-> Our first priority is to support [github](www.github.com) and [Visual Studio Online](www.visualstudio.com).
+> Our first priority is to support [github](http://www.github.com) and [Visual Studio Online](http://www.visualstudio.com).
 
 Both github and Visual Studio Online provides webhook ([github](https://developer.github.com/webhooks/), [VSO](https://www.visualstudio.com/get-started/integrate/service-hooks/webhooks-and-vso-vs)) to get notification on repo changes.
 

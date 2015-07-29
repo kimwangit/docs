@@ -8,7 +8,7 @@ Open Publishing: User Experience and Design
 
 The first step of open publishing is to create a GIT repository and setup it as an open publishing repo.
 
-For GIT repo, we currently plan to support both [GitHub](www.github.com) and [Visual Studio Online](www.visualstudio.com).
+For GIT repo, we currently plan to support both [GitHub](http://www.github.com) and [Visual Studio Online](http://www.visualstudio.com).
 After GIT repo is created, user can go to the management portal of open publishing to setup the repo as open publishing repo.
 During the setup process, user will be asked to authorize open publishing as an application to access GitHub/VSO resources, including pull code, create webhooks, etc.
 
