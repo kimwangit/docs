@@ -1,6 +1,6 @@
 Welcome to Open Publishing Design Docs
 ======================================
-
+ 
 This is the repository of Open Publishing Design Documents powered by MSDN Open Publishing.
 
 Quick Start
